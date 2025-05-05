@@ -1,4 +1,4 @@
-# FIntech-Mavericks
+# Fintech-Mavericks
 
 # Nonanswer Detection in Earnings Call Transcripts
 
@@ -56,3 +56,6 @@ This ensured robust model performance across both classes.
 ```bash
 git clone https://github.com/your-username/nonanswer-detection.git
 cd nonanswer-detection
+pip install -r requirements.txt
+streamlit run app.py
+
